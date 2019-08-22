@@ -1,4 +1,4 @@
-# datasets
+# Datasets
 
 This repository contains experimental datasets. To access a dataset from a Google Colab Python notebook, open the dataset and click on *View Raw*. Copy the URL to the raw dataset.
 
