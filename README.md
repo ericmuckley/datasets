@@ -8,7 +8,7 @@ In a Google Colab notebook, paste the URL as the *url* variable inside quotes to
 import pandas as pd
 
 # set the URL
-url = 'https://github.com/ericmuckley/datasets/blob/master/hops_enose_response.csv'
+url = 'https://github.com/ericmuckley/datasets/master/hops_enose_response.csv'
 
 # read the dataset from the URL
 df1 = pd.read_csv(url)
