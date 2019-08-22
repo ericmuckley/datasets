@@ -1,8 +1,8 @@
 # Datasets
 
-This repository contains experimental datasets. To access a dataset from a Google Colab Python notebook, open the dataset and click on *View Raw*. Copy the URL to the raw dataset.
+This repository contains experimental datasets. To access a dataset from a Google Colab Python notebook, open the dataset. Near the data heders, click the **_Raw_** button. Once you are viewing the data in raw form, copy the URL.
 
-Then in a Google Colab notebook, paste the URL as the *url* variable (in quotes). Use the Python library Pandas to import the dataset. In this case it is a csv file:
+In a Google Colab notebook, paste the URL as the *url* variable inside quotes to designate that its a string. Use the Python library Pandas to import the dataset. In this case it is a csv file:
 
 ```
 import pandas as pd
