@@ -1,6 +1,6 @@
 # Datasets
 
-This repository contains experimental datasets. You can access a dataset from a Google Colab Python notebook in two different ways.
+This repository contains datasets. You can access a dataset from a Google Colab Python notebook in two different ways.
 
 
 ### Option 1
